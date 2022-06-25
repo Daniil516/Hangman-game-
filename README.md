@@ -13,4 +13,4 @@ The computer "guesses" an arbitrary word, and the user must guess it by alternat
 ## To make the game more interesting:
 -You can add your own words to game. For this:
 1) Open program_directory/data/words.txt
-2) Write your words in file. (IN UPPER CASE)
+2) Write your own words in file. (IN UPPER CASE)
